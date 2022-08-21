@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 #### Bio
 
-- 🏢 I'm currently working at **Bentley Systems**
-- 🌱 Learning all about **Software development and testing**
+- 🏢 I'm currently working at **[Bentley Systems](https://www.bentley.com/en)**
+- 🌱 Learning all about **Software development**
 - ⚙️ I use daily: `.js`, `.ts`, `.py`
 - 💬 Ping me about **Front-end development**, **3D visualization**, **API design**
-- 📫 Reach me: [linkedin.com/in/mmncit](https://www.linkedin.com/in/mmncit)
+- 📫 Reach me: [mmncit@gmail.com](mailto:mmncit@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a passionate :musical_note: lyricist (checkout my [soundcloud](https://soundcloud.com/mmncit/rerelease)), calligrapher, and thriller-enthusiast. I love to play soccer :soccer:, table tennis :ping_pong:, and squash.
 <!--
