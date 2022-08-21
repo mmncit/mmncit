@@ -3,7 +3,7 @@
 ## ✨ **Bio**
 
 - 🔭 I'm currently working on full-stack web development at **[Bentley Systems](https://www.bentley.com/en)**
-- 🌱 Learning all about **Software development**
+- 🌱 Learning about **development, CI/CD, security**
 - ⚙️ I use daily: `.js`, `.ts`, `.py`
 - 💬 Ping me about **Full-stack development**, **3D visualization**, **API design**
 - 📫 Reach me at [mmncit@gmail.com](mailto:mmncit@gmail.com)
