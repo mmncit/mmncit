@@ -42,15 +42,8 @@ Here are some ideas to get you started:
 <b>⚡ Github Stats</b>
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmncit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmncit&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
-</p>
-
 
 
 #### Connect With Me
