@@ -55,17 +55,15 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=mmncit&theme=gotham&hide_border=true'>
 </p>
 
-## **Support**
-- 👍🏻 If you appreciate what I do and wish to support my work, you can consider  
+<!--
+## **Support** 
 <div align='center'>
-
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black 'Buy Me A Coffee')](https://buymeacoffee.com/mmncit)
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white 'Paypal me')](paypal.me/mmncit)
-
 </div>
 
-- 🎉 All of your support will go for donation.
-- ⭐️ Starring & sharing my Open Source Project is also appreciated.
+- All of your support will go for donation.
+-->
 
 ## :telephone: **Connect**
 
