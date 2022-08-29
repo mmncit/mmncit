@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-## ✨ **Bio**
+✨ **Mamun Rashid** here 😄
 
-- 🔭 I'm currently working on full-stack web development at **[Bentley Systems](https://www.bentley.com/en)**
-- 🌱 Learning about **development, CI/CD, security**
-- ⚙️ I use daily: `.js`, `.ts`, `.py`
-- 💬 Ping me about **Full-stack development**, **3D visualization**, **API design**
+- 🔭 Software Developer at **[Bentley Systems](https://www.bentley.com/en)**
+- 🌱 Learning about **web development, CI/CD, security, cloud**
+- 💬 Ping me about **Full-stack web development**, **3D visualization**, **API design**
 - 📫 Reach me at [mmncit@gmail.com](mailto:mmncit@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a passionate :musical_note: lyricist (checkout my [soundcloud](https://soundcloud.com/mmncit/rerelease)), calligrapher, and thriller-enthusiast. I love to play soccer :soccer: table tennis :ping_pong: and squash.
+- ⚡ Misc: I'm a passionate :musical_note: lyricist, calligrapher, and thriller-enthusiast. I love to play soccer :soccer: table tennis :ping_pong: and squash.
 <!--
 - 📝 Checkout my [Resume](files/resume.pdf).
 -->
