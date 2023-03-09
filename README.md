@@ -4,7 +4,7 @@
 
 - 🔭 Software Developer at **[Bentley Systems](https://www.bentley.com/en)**
 - 🌱 Learning about **web development, CI/CD, security, cloud**
-- 💬 Ping me about **Full-stack web development**, **3D visualization**, **API design**
+- 💬 Ping me about **Full-stack web development**, **Process Automation**, **API design**, **3D visualization** 
 - 📫 Reach me at [mmncit@gmail.com](mailto:mmncit@gmail.com)
 - ⚡ Misc: I'm a passionate :musical_note: lyricist, calligrapher, and thriller-enthusiast. I love to play soccer :soccer: table tennis :ping_pong: and squash.
 <!--
