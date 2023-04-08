@@ -3,10 +3,10 @@
 ✨ **Mamun Rashid** here 😄
 
 - 🔭 Software Developer at **[Bentley Systems](https://www.bentley.com/en)**
-- 🌱 Learning about **web development, CI/CD, security, cloud**
-- 💬 Ping me about **Full-stack web development**, **Process Automation**, **API design**, **3D visualization** 
+- 🌱 Interested about **web development, CI/CD, security** and **cloud** technologies
+- 💬 Ping me about **Full-stack web/mobile app development**, **Process Automation**, **API design**, **3D visualization** 
 - 📫 Reach me at [mmncit@gmail.com](mailto:mmncit@gmail.com)
-- ⚡ Misc: I'm a passionate :musical_note: lyricist, calligrapher, and thriller-enthusiast. I love to play soccer :soccer: table tennis :ping_pong: and squash.
+- ⚡ Misc: I'm a passionate :musical_note: lyricist and calligrapher (not so good though 😊). I love to play soccer :soccer: table tennis :ping_pong: and squash.
 <!--
 - 📝 Checkout my [Resume](files/resume.pdf).
 -->
@@ -21,6 +21,7 @@
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![](https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
