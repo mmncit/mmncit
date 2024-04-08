@@ -7,7 +7,7 @@
 - 💬 Ping me about **Full-stack web/mobile app development**, **Process Automation**, **API design**, **3D visualization**
 - 🌐 Portfolio: [mmncit-dev](https://mmncit-dev.vercel.app)
 - 📫 Reach me at [mmncit@gmail.com](mailto:mmncit@gmail.com)
-- ⚡ Misc: I'm a passionate :musical_note: lyricist and calligrapher (not so good though 😊). I love to play soccer :soccer: table tennis :ping_pong: and squash.
+- ⚡ Misc: I'm an amature :musical_note: lyricist and calligrapher 😊. I love to play soccer :soccer: table tennis :ping_pong: and squash.
 <!--
 - 📝 Checkout my [Resume](files/resume.pdf).
 -->
