@@ -5,7 +5,7 @@
 - 🔭 Software Developer at **[Bentley Systems](https://www.bentley.com/en)**
 - 🌱 Interested about **web development, CI/CD, security** and **cloud** technologies
 - 💬 Ping me about **Full-stack web/mobile app development**, **Process Automation**, **API design**, **3D visualization**
-- 🌐 Portfolio: [mmncit](https://mmncit.vercel.app)
+- 🌐 Portfolio: [mmncit](https://mmncit.com)
 - 📫 Reach me at [mmncit@gmail.com](mailto:mmncit@gmail.com)
 - ⚡ Misc: I'm an amateur writer and calligrapher 😊. I love to play soccer :soccer: table tennis :ping_pong: and squash.
 <!--
