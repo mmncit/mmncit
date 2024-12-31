@@ -2,7 +2,7 @@
 
 ✨ **Mamun Rashid** here 😄
 
-- 🔭 Software Developer at **[Bentley Systems](https://www.bentley.com/en)**
+- 🔭 Senior Software Developer at **[Turing Analytics](https://www.turinganalytics.net/)**
 - 🌱 Interested about **web development, CI/CD, security** and **cloud** technologies
 - 💬 Ping me about **Full-stack web/mobile app development**, **Process Automation**, **API design**, **3D visualization**
 - 🌐 Portfolio: [mmncit](https://mmncit.com)
