@@ -4,7 +4,7 @@
 
 - 🔭 Senior Software Developer at **[Turing Analytics](https://www.turinganalytics.net/)**
 - 🌱 Interested about **web development, CI/CD, security** and **cloud** technologies
-- 💬 Ping me about **Full-stack web/mobile app development**, **Process Automation**, **API design**, **3D visualization**
+- 💬 Ping me about **Full-stack web development**, **Process Automation**, **API design**, **2D/3D visualization**
 - 🌐 Portfolio: [mmncit](https://mmncit.com)
 - 📫 Reach me at [mmncit@gmail.com](mailto:mmncit@gmail.com)
 - ⚡ Misc: I'm an amateur writer and calligrapher 😊. I love to play soccer :soccer: table tennis :ping_pong: and squash.
@@ -48,10 +48,7 @@
   </a>
 </p>
 
-## **Streak Stats**
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=mmncit&theme=gotham&hide_border=true'>
-</p>
+
 
 <!--
 ## **Support** 
