@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-✨ **Mamun Rashid** here 😄
+**Mamun Rashid** here 😄
 
 - 🔭 Senior Software Developer at **[Turing Analytics](https://www.turinganalytics.net/)**
-- 🌱 Interested about **web development, CI/CD, security** and **cloud** technologies
 - 💬 Ping me about **Full-stack web development**, **Process Automation**, **API design**, **2D/3D visualization**
-- 🌐 Portfolio: [mmncit](https://mmncit.com)
+- 🌱 Always guided by care for human life, integrity, and positive impact
+- 🌐 Portfolio: [mmncit.com](https://mmncit.com)
 - 📫 Reach me at [mmncit@gmail.com](mailto:mmncit@gmail.com)
-- ⚡ Misc: I'm an amateur writer and calligrapher 😊. I love to play soccer :soccer: table tennis :ping_pong: and squash.
+- ⚡ Misc: I enjoy sharing my thoughts on my [blog](https://www.mmncit.com/blog) sometimes. I love playing football :soccer: and table tennis :ping_pong:. If I had to pick just one movie to rewatch, it’s [The Matrix](https://www.imdb.com/title/tt0133093/)
 <!--
 - 📝 Checkout my [Resume](files/resume.pdf).
 -->
 
+<!--
 ## :books: **Stacks**
 
 <div align='center'>
@@ -20,9 +21,11 @@
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![](https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+
 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,7 +39,7 @@
 ![](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
-
+-->
 
 ## ⚡ **Github Stats**
 <p align="left">
@@ -72,10 +75,12 @@
 <a href="https://www.facebook.com/mmncit">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
+<a href="mailto:mmncit@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+  <!--
 <a href="https://medium.com/@mmncit">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<a href="mailto:mmncit@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
+  -->
 </p>
