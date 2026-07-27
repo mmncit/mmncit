@@ -2,8 +2,8 @@
 
 **Mamun Rashid** here 😄
 
-- 🔭 Senior Software Developer at **[Turing Analytics](https://www.turinganalytics.net/)**
-- 💬 Ping me about **Web development**, **Process Automation**, **API design**, **2D/3D visualization**
+- 🔭 Senior Software Developer at **[Novi](https://novilabs.com/)**
+- 💬 Ping me about **Web development**, **CI/CD**, **API design**, **2D/3D visualization**
 - 🌱 Always guided by care for human life, integrity, and positive impact
 - 🌐 Portfolio: [mmncit.com](https://mmncit.com)
 - 📫 Reach me at [mmncit@gmail.com](mailto:mmncit@gmail.com)
