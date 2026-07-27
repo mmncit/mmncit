@@ -66,9 +66,9 @@
 ## :telephone: **Connect**
 
 <p left="center">
-
-<img src="https://img.shields.io/website?style=for-the-badge&logo=website&logoColor=white&url=http%3A//www.mmncit.com" height=25>
-   
+<a href="https://www.mmncit.com/">
+  <img src="https://img.shields.io/website?style=for-the-badge&logo=website&logoColor=white&url=http%3A//www.mmncit.com" height=25>
+</a>   
 <!-- <a href="https://twitter.com/mmncit">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a>  -->
