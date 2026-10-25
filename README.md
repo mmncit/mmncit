@@ -3,7 +3,7 @@
 **Mamun Rashid** here 😄
 
 - 🔭 Senior Software Developer at **[Novilabs](https://novilabs.com/)**
-- 💬 Ping me about **Web development**, **CI/CD**, **API design**, **2D/3D visualization**
+- 💬 Ping me about **data-intensive apps**, **distributed systems**, **visualization**, **AI engineering**
 - 🌱 Always guided by care for human life, integrity, and positive impact
 - 🌐 Portfolio: [mmncit.com](https://mmncit.com)
 - 📫 Reach me at [mmncit@gmail.com](mailto:mmncit@gmail.com)
